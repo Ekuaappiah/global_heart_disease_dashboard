@@ -1,0 +1,15 @@
+dash
+dash-bootstrap-components
+Flask
+Flask-Caching
+plotly
+numpy
+pandas
+scipy
+statsmodels
+pytz
+pycountry-convert
+pycountry
+gunicorn
+pyarrow
+orjson
