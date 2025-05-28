@@ -1,4 +1,4 @@
-# Global-Heart-Disease-Visualisation-Project_Team1
+# Global-Heart-Disease-Visualisation
 
 This web-based interactive dashboard provides data visualizations and insights for exploring and analyzing global health and demographic data. Users can interact with various charts to understand trends in mortality rates, prevalence rates, and risk factors across countries and regions over time.
 
