@@ -61,7 +61,7 @@ df = pd.read_parquet("dataset/FINAL_MERGED_DATA_reimputed.parquet", engine="pyar
 df.loc[:, 'Region'] = df['Country_Code'].apply(get_region)
 
 corr_data = df.copy()
-corr_data = corr_data.drop(columns=['Country_Code','Region'], axis=1)
+corr_data = corr_data.drop(columns=['Country_Code', 'Region'])
 
 
 # Sidebar styling and layout
